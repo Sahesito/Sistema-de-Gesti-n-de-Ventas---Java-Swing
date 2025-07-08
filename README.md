@@ -1,1 +1,1 @@
-# Sistema-de-Gesti-n-de-Ventas---Java-Swing
+# Sistema-de-Gestión-de-Ventas---Java-Swing
